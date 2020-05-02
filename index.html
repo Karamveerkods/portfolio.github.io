@@ -417,7 +417,7 @@
         </section><!-- /.contact-one -->
 
 
-        <footer class="site-footer"  style="margin-top: 150px;" >
+        <footer class="site-footer"  style="margin-top: 250px;" >
             <div class="site-footer__bottom">
                 <div class="container">
                     <div class="inner-container">
