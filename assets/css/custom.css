@@ -1,0 +1,32 @@
+    
+
+    *{
+        line-height: 30px;
+        letter-spacing: .005em;
+    }
+
+
+    .line-spacing{
+        margin: 0 auto 20px 0;
+    }
+
+    .letter-spacing {
+        /* 16 * 0.0625 = 1px */
+        letter-spacing: 0.0625em;
+      }
+
+    .custom-heading{
+        margin: 0;
+        color: #393939;
+        font-family: sofia-pro,Arial,sans-serif;
+        font-weight: 300;
+
+    }
+
+    .custom-para{
+        margin: 0;
+        color: #393939;
+        font-family: sofia-pro,Arial,sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+    }
